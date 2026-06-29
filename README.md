@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00A8A8&size=35&center=true&vCenter=true&width=1000&lines=Nicolas+Martineli;Java+Developer;Information+Systems+Student+at+FHO)](https://git.io/typing-svg)
 
-[![Nicolas Martineli github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NicolasMartineli&bg_color=000000&color=00A8A8&line=00A8A8&point=00FFFF&area=true&hide_border=true)](https://github.com/NicolasMartineli/github-readme-activity-graph)
+[![Nícolas Martineli github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NicolasMartineli&bg_color=000000&color=00A8A8&line=00A8A8&point=00FFFF&area=true&hide_border=true)](https://github.com/NicolasMartineli/github-readme-activity-graph)
 
 ---
 
@@ -31,7 +31,7 @@
   <br>
 
   <p>
-    Hi! I'm Nicolas Martineli, an Information Systems student at FHO.
+    Hi! I'm Nícolas Martineli, an Information Systems student at FHO.
   </p>
 
   <p>
